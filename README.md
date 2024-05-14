@@ -1,7 +1,5 @@
 # Hotel Booking Website
 
-To create a similar README file for your hotel booking website project, you can structure it as follows:
-
 ## Project Name: Hotel Booking Website
 
 ### Overview
